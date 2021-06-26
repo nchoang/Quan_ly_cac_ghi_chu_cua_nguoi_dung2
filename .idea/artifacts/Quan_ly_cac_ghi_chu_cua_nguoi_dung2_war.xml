@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Quan_ly_cac_ghi_chu_cua_nguoi_dung2:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Quan_ly_cac_ghi_chu_cua_nguoi_dung2</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Quan_ly_cac_ghi_chu_cua_nguoi_dung2-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Quan_ly_cac_ghi_chu_cua_nguoi_dung2:war exploded" />
+    </root>
+  </artifact>
+</component>
